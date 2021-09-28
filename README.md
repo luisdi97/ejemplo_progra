@@ -1,2 +1,2 @@
 # ejemplo_progra
-Descripción opcional
+Descripcion opcional
